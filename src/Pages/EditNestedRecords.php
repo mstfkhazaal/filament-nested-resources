@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Mstfkhazaal\FilamentNestedresources\Resources\Pages;
+namespace SevendaysDigital\FilamentNestedResources\Resources\Pages;
 
 use Filament\Pages\Actions\DeleteAction;
 use Filament\Pages\Actions\ForceDeleteAction;
