@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Mstfkhazaal\FilamentNestedresources\Resources\Pages;
+namespace SevendaysDigital\FilamentNestedResources\Resources\Pages;
 
 use Filament\Resources\Pages\ViewRecord;
 use Illuminate\Database\Eloquent\Model;
